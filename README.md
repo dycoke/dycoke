@@ -1,4 +1,4 @@
-# I'm dycoke/Andy
+## I'm dycoke/Andy
 I like to code. I work on small projects from time to time.
 
 ### Languages:
