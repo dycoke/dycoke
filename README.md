@@ -4,7 +4,7 @@ I am a USACO Silver competitor and like to work on small projects from time to t
 ### Languages
 `C++` / `Java` / `Python`
 
-### Things I Do
+### What I Do
 *  [USACO Problems](https://github.com/dycoke/USACO)
 *  Codeforces
 
